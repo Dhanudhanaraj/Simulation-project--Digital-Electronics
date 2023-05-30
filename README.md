@@ -10,6 +10,22 @@ Hardware – PCs, Cyclone II , USB flasher.
 
 Software – Quartus prime.
 
+## Procedure
+
+Step 1: Open Quartus Prime and select new project . Open new file at the verilog.
+
+Step 2: Module Declaration. Module should have the file name.
+
+Step 3: Input-Output Delecaration.
+
+Step 4: Within the module, create a combinational logic block using a case statement to select the appropriate input based on the select inputs.
+
+Step 5: End the module.
+
+Step 6: Run the program and choose RTL viewer to get RTL realization.
+
+Step 7: verifying the output by truthtable.
+
 ## THEORY:
 
 ### What is a Multiplexer
