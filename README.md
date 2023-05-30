@@ -96,4 +96,4 @@ endmodule
 
 ## RESULT:
 
-8:1 multiplexer has been implemented and its truth table in Quartus is verified by using Verilog programming,outputs are validated.
+Thus the 8:1 multiplexer has been implemented in Quartus Prime and output is verified by using Verilog programming through its truth table.
