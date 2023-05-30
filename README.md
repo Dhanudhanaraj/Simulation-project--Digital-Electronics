@@ -2,7 +2,7 @@
 
 ## AIM:
 
-To design a 8:1 multiplexer and verify its truth table in Quartus using Verilog programming,validate its outputs.
+To design a 8:1 multiplexer and verify its truth table in Quartus Prime using Verilog programming,and validate its outputs.
 
 ## HARDWARE REQUIRED:
 
@@ -24,7 +24,7 @@ Step 5: End the module.
 
 Step 6: Run the program and choose RTL viewer to get RTL realization.
 
-Step 7: verifying the output by truthtable.
+Step 7: Verifying the output by truthtable.
 
 ## THEORY:
 
